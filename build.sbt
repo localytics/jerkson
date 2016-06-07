@@ -1,7 +1,7 @@
 /* basic project info */
 name := "jerkson"
 
-organization := "com.gilt"
+organization := "com.localytics"
 
 licenses := Seq(
   ("The MIT License", url("http://codahale.com/mit.txt"))
